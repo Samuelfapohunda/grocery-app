@@ -1,0 +1,22 @@
+.eightpage {
+    padding-top: 40px;
+width: 375px;
+}
+
+.message {
+    margin-left: 120px;
+}
+
+.buttonss {
+    position: absolute;
+    width: 227px;
+    cursor: pointer;
+    color: white;
+    font-size: larger;
+    height: 50px;
+    left: 80px;
+    border: 1px solid #0BAB64;
+    border-radius: 30px;
+    background: #0BAB64;
+    top: 450px;
+}

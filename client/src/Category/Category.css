@@ -1,0 +1,28 @@
+.spa {
+    background-color: #EFEFEF;
+    border-radius: 200px;
+   }
+
+   .categories {
+    padding-right: 5px;
+    width: 375px;
+    height: 645px;
+    background-color: white;
+}
+
+.top-side {
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+    width: 100%;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-around;
+    height: 375px;
+    padding-left: 10px;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}

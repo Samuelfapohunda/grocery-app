@@ -1,0 +1,21 @@
+.thirdpage {
+   width: 375px;
+}
+.screen {
+    padding-top: 50px;
+    margin-left: 30px;
+}
+
+.word {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 310px;
+    height: 56px;
+}
+
+.feet {
+    display: flex;
+    margin-top: 140px;
+    justify-content: space-between;
+    align-items: center;
+}

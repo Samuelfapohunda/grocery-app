@@ -1,0 +1,14 @@
+.footer {
+    height: 50px;
+    padding-top: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button.badge {
+    background-color: #f04040;
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+    width: 1.5rem;
+}

@@ -1,0 +1,33 @@
+.splash {
+    background-image: url("./splash.jpg");
+    background-size: cover;
+    width: 375px;
+     padding-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+
+.body {
+    margin-top: 190px;
+    
+}
+
+
+
+h2 {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: large;
+}
+
+.foot {
+    display: flex;
+    margin-top: 285px;
+   
+    justify-content: space-between;
+    align-items: center;
+}

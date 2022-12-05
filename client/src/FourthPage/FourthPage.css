@@ -1,0 +1,28 @@
+.fourthpage {
+   width: 375px;
+}
+
+.man {
+   margin-left: -20px;
+}
+
+.door {
+    margin-top: 15px;
+    margin-left: -10px;
+    text-align: center;
+}
+
+.btn {
+position: absolute;
+width: 227px;
+cursor: pointer;
+color: white;
+font-size: larger;
+height: 50px;
+left: 70px;
+border: 1px solid #0BAB64;
+border-radius: 30px;
+background: #0BAB64;
+top: 580px;
+
+}

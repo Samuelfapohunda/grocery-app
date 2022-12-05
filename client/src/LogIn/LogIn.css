@@ -1,0 +1,71 @@
+.fifthpage {
+    font-family: 'Poppins', sans-serif;
+
+    width: 375px;
+}
+
+header {
+    margin-top: 50px;
+    text-align: center;
+    font-size: large;
+}
+
+.add-form {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.forgot {
+    width: 130px;
+    margin-left: 210px;
+    margin-top: 3px;
+    color: black;
+}
+a {
+    color: #0BAB64;
+    text-decoration: none;
+}
+
+.account {
+    margin-top: 30px;
+    margin-left: 75px;
+    
+    width: 240px;
+}
+
+.button {
+    position: absolute;
+width: 227px;
+cursor: pointer;
+color: white;
+font-size: larger;
+height: 50px;
+left: 75px;
+border: 1px solid #0BAB64;
+border-radius: 30px;
+background: #0BAB64;
+top: 530px;
+}
+
+.form-control {
+    margin: 20px 0;
+}
+
+.form-control label {
+    display: block;
+}
+
+.form-control input {
+    width: 90%;
+    border: 1px solid black;
+    height: 40px;
+    padding: 3px 7px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+
+.see {
+    background-color: transparent !important;
+    margin-left: -45px !important;
+}

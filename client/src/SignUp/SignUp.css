@@ -1,0 +1,44 @@
+.form-controls {
+    margin: 20px 0;
+}
+
+.sixthpage {
+    width: 375px;
+   
+}
+.form-controls label {
+    display: block;
+    padding-bottom: 5px;
+}
+
+.form-controls input {
+    width: 90%;
+    border: 1px solid black;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.add-forms {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.buttons {
+    position: absolute;
+width: 227px;
+cursor: pointer;
+color: white;
+font-size: larger;
+height: 50px;
+left: 130px;
+border: 1px solid #0BAB64;
+border-radius: 30px;
+background: #0BAB64;
+top: 620px;
+}
+
+.see {
+    background-color: transparent !important;
+}
