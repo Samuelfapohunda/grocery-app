@@ -31,14 +31,7 @@ function App() {
   <Route path='/homepage' element={<HomePage />} />
   <Route path='/category' element={<Category />} />
   <Route path='/cart' element={<Cart />} />
-
-
-
-
-
-
-
-      </Routes>
+ </Routes>
      </Router>
     </div>
   );
